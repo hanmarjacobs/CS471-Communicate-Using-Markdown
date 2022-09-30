@@ -10,7 +10,11 @@ printf("Hello, Piggy Bank!");
 
 ### Header 3
 
-#### Haeder 4
+- [X] Insert piggy bank
+- [X] Say hello to my new friend
+- [ ] Commit tax fraud
+
+#### Header 4
 
 ##### Header 5
 
