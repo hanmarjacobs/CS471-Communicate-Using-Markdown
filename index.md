@@ -4,6 +4,10 @@
 
 ## Header 2
 
+```
+printf("Hello, Piggy Bank!");
+```
+
 ### Header 3
 
 #### Haeder 4
